@@ -1,7 +1,7 @@
 ### Hi there! I'm Cibelly Cristina ✨
 ##
 - 💻 Backend Developer
-- ⚡ Electrical engineer - Federal University of Uberlândia (UFU)
+- ⚡ Electrical Engineer - Federal University of Uberlândia (UFU)
 - 📫 How to reach me: cibellycristinaudi@gmail.com
 
 <div align="center">
