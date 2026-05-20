@@ -1,6 +1,6 @@
 ### Hi there! I'm Cibelly Cristina ✨
 ##
-- 💻 Backend Developer
+- 💻 Backend Developer (Itau Bank)
 - ⚡ Electrical Engineer - Federal University of Uberlândia (UFU)
 - 📫 How to reach me: cibellycristinaudi@gmail.com
 
